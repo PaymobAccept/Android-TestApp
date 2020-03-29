@@ -12,4 +12,4 @@ allprojects {
 
 
 dependencies
-  implementation 'com.github.PaymobAccept:Android-SDK:0.1.1'
+  implementation 'com.github.PaymobAccept:Android-SDK:0.1.2'
